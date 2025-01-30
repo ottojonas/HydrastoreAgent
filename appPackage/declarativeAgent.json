@@ -13,6 +13,22 @@
   "capabilities": [
     {
       "name": "WebSearch"
+    },
+    {
+      "name": "OneDriveAndSharePoint",
+      "items_by_url": [
+        {
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "GraphConnectors",
+      "connections": [
+        {
+          "connection_id": ""
+        }
+      ]
     }
   ]
 }
