@@ -6,8 +6,8 @@
   "instructions": "$[file('instruction.txt')]",
   "conversation_starters": [
     {
-      "title": "",
-      "text": ""
+      "title": "Welcome to abc",
+      "text": "Ask about xyz..."
     }
   ],
   "capabilities": [
